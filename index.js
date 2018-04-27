@@ -5,3 +5,4 @@
 * @Last Modified time: 2018-04-27 17:05:07
 */
 alert('hello')
+console.log('大家好')
